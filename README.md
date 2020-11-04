@@ -22,9 +22,11 @@ We have a team of young, skilled and determined IT specialists, developers, Agil
 Rebels consists a group of young and ambitious people. We love to take everything a step further, where most people would stop. This means that we are willing to take risks and face almost any challenge head-on, as we know the process is as important as the results.
 
 **💻  DevOps Mindset**
+
 DevOps is not just about the processes we employ or the tools that we use. It's about the entire team working together and about feeling responsible for the full lifecycle and scope of the products and features they work on.
 
 **☁️ Azure Cloud**
+
 Azure Cloud, gives us the freedom to use our favorite tools and frameworks to develop, manage and deploy applications on a comprehensive global network. Because we like to realize revolutions and try to make the impossible possible, working with a service that allows for out-of-the-box solutions is naturally our first choice. Azure allows us to realize cloud strategy, transform and migrate existing software, or build entirely new systems or platforms for you. Are you interested in how we can realize your wildest dreams with the help of Azure? Contact our Rebels today.
 
 **👥 Friday: Tech & Innovation Day**
